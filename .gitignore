@@ -164,3 +164,4 @@ cython_debug/
 colon_image_sets/
 lung_image_sets/
 test/
+lung_colon_image_set/
